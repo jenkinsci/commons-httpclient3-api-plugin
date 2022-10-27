@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides a <a href="https://github.com/jenkinsci/lib-commons-httpclient">patched version</a> of the deprecated <a href="https://hc.apache.org/httpclient-legacy/">Commons HttpClient 3.x</a> library for use by other plugins.
+</div>
